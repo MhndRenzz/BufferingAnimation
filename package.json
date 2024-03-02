@@ -1,0 +1,26 @@
+{
+"name": "bufferingrenzzanimation",
+"version": "1.0.0",
+"description": "A buffering animation is utilized to convey progress to users while waiting for data to load or process. ",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/MhndRenzz/BufferingAnimation.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "MhndRenzz",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
